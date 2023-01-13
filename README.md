@@ -1,6 +1,6 @@
 # Simple Password Generator
 
-- This to generates you a secured password for any kinds of website accounts.   
+- This to generates you a secured password for your any kind of website accounts.   
 
 - Stored it in database with encryption.
 
