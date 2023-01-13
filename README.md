@@ -1,1 +1,3 @@
-# Simple_Password_Generator
+# Simple Password Generator
+
+A password generator for any type 
